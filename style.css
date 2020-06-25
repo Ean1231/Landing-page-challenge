@@ -1,0 +1,77 @@
+.grid{
+    width: 1669px;
+    height: 682px;
+    border: 1px solid black;  
+     
+}
+.firstdiv{
+    text-align: left;
+    padding-left: 100px;
+    margin-bottom: 10px;
+    margin-top: 100px;
+    margin: 5px;
+}
+.grid1{
+    border: 1px solid silver; 
+    height: 80px; 
+    width: 1673px; 
+}
+.buttons{
+    border: 1px solid white; 
+    margin-left: 470px; 
+    margin-bottom: 12px; 
+    margin-top: 13px; 
+    font-size: 20px; 
+    background-color: white;
+}
+.div1writing{
+    padding-left: 5%;
+    padding-top: 5%;
+}
+.div1{
+    
+    width: 25%;
+    font-size: 45px;
+    
+}
+.button1{
+ 
+    background: linear-gradient(left, lime,#00ced1 );
+    background: -ms-linear-gradient(left, lime, #00ced1);
+    background: -webkit-linear-gradient(left, lime, #00ced1);
+    background: -o-linear-gradient(left, lime, #00ced1);
+    background: -ms-linear-gradient(left, lime, #00ced1);
+    border: 1px solid #00ffcc;
+    margin-left: 370px; 
+    margin-bottom: 12px; 
+    margin-top: 13px; 
+    font-size: 20px; 
+    background-color: white;
+    border-radius: 20px;
+    height: 43px;
+    width: 170px;
+    
+    
+}
+.buttons{
+    background: linear-gradient(left, lime, #00ced1);
+    background: -ms-linear-gradient(left, lime, #00ced1);
+    background: -webkit-linear-gradient(left, lime, #00ced1);
+    background: -o-linear-gradient(left, lime, #00ced1);
+    background: -ms-linear-gradient(left, springlimegreen, #00ced1);
+    border: 1px solid green;
+    margin-left: 78px; 
+    margin-bottom: 12px; 
+    margin-top: 13px; 
+    font-size: 20px; 
+    
+    border-radius: 20px;
+    height: 43px;
+    width: 150px;
+   
+}
+.grid2{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+}
